@@ -1,6 +1,5 @@
 # hello-world
 
 
-changes are no good
-start from scratch
+things were fine to begin with
 
